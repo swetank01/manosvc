@@ -4,11 +4,11 @@
 
 ## Architecture
 
-              |-----> Post Service      ----->   Posts Feature
+              |----->   Post Service   ----->   Posts Feature
               |
 REACT APP ----
               |
-              |-----> Comments Service  ----->   Comments Feature
+              |-----> Comments Service ----->   Comments Feature
 
 
 ## Framework
